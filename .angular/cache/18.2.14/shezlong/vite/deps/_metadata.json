@@ -1,0 +1,67 @@
+{
+  "hash": "33bb60a2",
+  "configHash": "1aec39aa",
+  "lockfileHash": "72ca6fed",
+  "browserHash": "33dfff31",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "c5e54a7a",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "dcca93ed",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "76dc0c6e",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "d13fbf78",
+      "needsInterop": false
+    },
+    "angular-plotly.js": {
+      "src": "../../../../../../node_modules/angular-plotly.js/fesm2022/angular-plotly.js.mjs",
+      "file": "angular-plotly__js.js",
+      "fileHash": "28f26d49",
+      "needsInterop": false
+    },
+    "plotly.js-dist-min": {
+      "src": "../../../../../../node_modules/plotly.js-dist-min/plotly.min.js",
+      "file": "plotly__js-dist-min.js",
+      "fileHash": "5762ccd3",
+      "needsInterop": true
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "5399aa92",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-V2YWCOTY": {
+      "file": "chunk-V2YWCOTY.js"
+    },
+    "chunk-WHC7YG2V": {
+      "file": "chunk-WHC7YG2V.js"
+    },
+    "chunk-S3RKEIVT": {
+      "file": "chunk-S3RKEIVT.js"
+    },
+    "chunk-J2KZDJXE": {
+      "file": "chunk-J2KZDJXE.js"
+    },
+    "chunk-3OV72XIM": {
+      "file": "chunk-3OV72XIM.js"
+    }
+  }
+}
